@@ -1,0 +1,3 @@
+[submodule "blog/themes/hueman"]
+	path = blog/themes/hueman
+	url = https://github.com/itistnet/itistnet.github.io_Theme_Hueman
