@@ -8,12 +8,12 @@ subtitle: 'ITist의 블로그'
 description: 'ITist의 블로그입니다.'
 keywords: itist, .net, asp.net, .net core, asp.net core, web development, web programming, 닷넷, 웹개발, 웹프로그래밍
 author: ITist
-language: en
+language: ko
 timezone: 'Asia/Seoul'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://itistnet.github.io
+url: https://itist.net
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
