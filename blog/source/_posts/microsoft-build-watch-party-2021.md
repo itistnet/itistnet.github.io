@@ -10,6 +10,8 @@ categories: [행사소식]
 이번 Build 2021 행사에서 아래 세션에 관심을 가지신 분들이 많을 것 같은데요.
 온라인으로 함께 모여서 세션 영상도 보고, 이런저런 이야기도 나누는 시간을 가져보려고 합니다.
 
+수정 테스트
+
 "The future of modern application development with .NET"
 (https://mybuild.microsoft.com/sessions/76ebac39-517d-44da-a58e-df4193b5efa9)
 
