@@ -2,7 +2,7 @@
 title: MVP Microsoft Build Watch Party (ASP.NET Korea)
 date: 2021-06-04 01:14:30
 tags: [MSBuild, MicsoroftBuildWatchParty, MVP, MicrosoftBuild]
-categories: [행사소식]
+categories: [새소식]
 ---
 
 ![](/images/microsoft-build-watch-party-2021/01.png)
@@ -30,3 +30,35 @@ https://youtu.be/2Ky28Et3gy0
 - 참여 링크(Microsoft Teams) : https://bit.ly/3goieZt
 
 온라인 미팅에 익숙하지 않은 분이라도 전혀 부담가질 필요 없으니 오랜만에 모임하는 기분으로 가볍게 참여해 주시면 좋겠습니다.
+
+# H1H1H1H1H1H1H1H1H1H1H1
+
+## H2H2H2H2H2H2H2H2H2H2H2
+
+### H3H3H3H3H3H3H3H3H3H3H3
+
+> 블럭인용문자
+>
+> > 블럭인용문자2
+> >
+> > > 블럭인용문자3
+
+소스 코드는 이렇게
+
+```c#
+void FindRoot(Node node, Action<Node> processNode)
+{
+    for (var current = node; current != null; current = current.Parent)
+    {
+        processNode(current);
+    }
+}
+
+public void PrintMessage(string message)
+{
+    if (!string.IsNullOrWhiteSpace(message))
+    {
+        Console.WriteLine($"{DateTime.Now}: {message}");
+    }
+}
+```
