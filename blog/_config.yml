@@ -105,3 +105,26 @@ deploy:
   type: git
   repo: https://github.com/itistnet/itistnet.github.io.git
   branch: main
+
+# robots plugin
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: /sitemap.xml
+
+#Sitemap
+sitemap:
+    path: sitemap.xml
+    tag: false  #tag 는 사이트맵에서 제외
+    category: false #category 사이트맵에서 제외
+
+# nofollow plugin
+nofollow:
+  enable: true
+
+#RSS Feed
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 50
