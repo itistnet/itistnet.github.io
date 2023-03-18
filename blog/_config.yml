@@ -8,7 +8,7 @@ subtitle: "ITist의 블로그"
 description: "ITist의 블로그입니다."
 keywords: itist, .net, asp.net, .net core, asp.net core, web development, web programming, 닷넷, 웹개발, 웹프로그래밍
 author: ITist
-language: ko
+language: en
 timezone: "Asia/Seoul"
 
 # URL
@@ -115,9 +115,9 @@ robotstxt:
 
 #Sitemap
 sitemap:
-    path: sitemap.xml
-    tag: false  #tag 는 사이트맵에서 제외
-    category: false #category 사이트맵에서 제외
+  path: sitemap.xml
+  tag: false #tag 는 사이트맵에서 제외
+  category: false #category 사이트맵에서 제외
 
 # nofollow plugin
 nofollow:

@@ -1,10 +1,10 @@
----
+<!-- ---
 title: MVP Microsoft Build Watch Party (ASP.NET Korea)
 date: 2021-06-04 01:14:30
 tags: [MSBuild, MicsoroftBuildWatchParty, MVP, MicrosoftBuild]
-categories: [새소식]
+# categories: [새소식]
 thumbnail: https://avatars.githubusercontent.com/u/8849362?v=4
----
+--- -->
 
 ![](/images/microsoft-build-watch-party-2021/01.png)
 
@@ -20,7 +20,7 @@ thumbnail: https://avatars.githubusercontent.com/u/8849362?v=4
 https://youtu.be/2Ky28Et3gy0
 
 {% youtube 2Ky28Et3gy0 %}
-
+😭😊
 <br>
 
 - 진행 순서
