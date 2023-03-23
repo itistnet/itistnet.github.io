@@ -3,7 +3,7 @@ title: TAEYO.NET QD(Qualified Developer) 1기
 date: 2023-03-19 12:13:22
 categories: [Activities]
 tags: [TAEYO.NET, TAEYO.NET QD, 오프라인 실전 프로젝트, 스터디]
-thumbnail: /images/Activities/TaeyoNetQdStudy/TQD.gif
+thumbnail: /images/activities/taeyonet-qdstudy/TQD.gif
 ---
 
 <br />
@@ -28,6 +28,6 @@ thumbnail: /images/Activities/TaeyoNetQdStudy/TQD.gif
 
 지금 생각해 보면 시기적으로 [TAEYO.NET 운영진](http://www.taeyo.net/About/Sysop.aspx) 활동을 막 시작할 즈음이라 나도 모르게 힘이 들어가면서 더 힘들었던 건 아니었나 싶기도 하다.
 
-성공적으로 마무리된 1기에 이어 진행하기로 했던 2기는 결국 무산되어 아쉽지만, 그만큼 의미 있는 1기가 되었다고 생각하는 걸로.
+성공적으로 마무리된 1기에 이어 진행하기로 했던 2기는 결국 무산되어 아쉽지만, 그만큼 의미 있는 1기가 된 것으로 아름다운 마무리.
 
 <br />
